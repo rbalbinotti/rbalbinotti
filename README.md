@@ -10,7 +10,7 @@ Data Scientist focused on scalable architectures and high-complexity systems. My
 
 | Category | Dominant Technologies |
 | :--- | :--- |
-| **Data Engineering** | Spark, Hadoop, Apache HBase, ETL Pipelines (Parquet/Delta Lakes) |
+| **Data Engineering** | Spark, Hadoop, Apache HBase, ETL Pipelines (Parquet/DataLakes) |
 | **Deep Learning** | TensorFlow, Keras, YOLOv8/v10, LSTM, Transformers |
 | **MLOps & DevOps** | Docker, Podman, DVC (Data Version Control), Kubernetes |
 | **Analysis & Math** | Python, R, SQL, ANOVA Tests, Bayesian Inference |
@@ -20,7 +20,13 @@ Data Scientist focused on scalable architectures and high-complexity systems. My
 
 ### 📊 High-Impact Projects (Highlights)
 
-#### 📦 [Supply Chain AI - Digital Twin & Inventory Optimization](https://github.com/rbalbinotti/grocery_synthetic_data)
+#### <img width="20" height="20" alt="icons8-cadeia-de-mantimentos-28" src="https://github.com/user-attachments/assets/cc357974-ef2c-499b-8687-2a981c74639f" /> [Smart Supply Chain AI (ongoing project)](https://github.com/rbalbinotti/smart-supply-chain-ai)
+*Intelligent inventory and purchasing optimization with computer vision.*
+* **Differential:** Real-time shelf monitoring via YOLO + OpenCV integrated with demand forecasting and purchase recommendation modules.
+* **Stack:** Python, Pandas/NumPy, Scikit-learn, LightGBM, Prophet, Streamlit, Docker, DVC.
+* **Impact:** Reduction of costs, mitigation of stockouts, and improved liquidity through leaner inventory management.
+
+#### 📦 [Synthetic Grocery Supply Chain Data Generator](https://github.com/rbalbinotti/grocery_synthetic_data)
 *High-fidelity synthetic data engine for inventory optimization.*
 * **Differential:** Integration of real exogenous climate variables (INMET) via API for complex seasonality modeling.
 * **Stack:** LSTM vs. Prophet, advanced Feature Engineering, DVC.
