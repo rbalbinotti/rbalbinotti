@@ -1,4 +1,4 @@
-# 🏛️ Roberto Balbinotti | ML Architect & Computer Vision Specialist
+# 🏛️ Roberto Rosario Balbinotti | ML Architect & Computer Vision Specialist
 
 > **Transforming Big Data into Strategic Intelligence: Specialist in Computer Vision, Data Engineering, and MLOps.**
 
